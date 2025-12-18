@@ -1,0 +1,10 @@
+Monitoring Tool: AWS CloudWatch
+
+Dashboard Created:
+- CPU Utilization Graph
+- Network In/Out
+- Disk Usage
+
+Alert Condition:
+- CPU > 80% for 5 minutes
+- Notification sent via SNS Email
