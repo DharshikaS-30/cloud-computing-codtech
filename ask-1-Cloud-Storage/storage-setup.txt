@@ -1,0 +1,10 @@
+Bucket Name: codtech-storage-bucket
+Region: Asia Pacific (Mumbai)
+
+Files Uploaded:
+- sample1.txt
+- sample2.txt
+
+Permissions:
+- Public access blocked
+- Only owner access allowed
